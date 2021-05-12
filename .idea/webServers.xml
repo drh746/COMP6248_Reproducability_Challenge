@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8fa39675-b432-43c2-a579-ccf9285399ce" name="yann">
+        <fileTransfer accessType="SFTP" host="yann.ecs.soton.ac.uk" port="22" sshConfigId="6293c1aa-e6e9-453e-94f5-4f6d5a82aa90" sshConfig="rd3n20@yann.ecs.soton.ac.uk:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

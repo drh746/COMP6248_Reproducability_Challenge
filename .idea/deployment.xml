@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="rd3n20@yann.ecs.soton.ac.uk:22 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="rd3n20@yann.ecs.soton.ac.uk:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/rd3n20/deep_learning/cw/custom" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="yann">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/rd3n20/deep_learning/cw/custom" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
